@@ -13,7 +13,7 @@
 ### 👨‍💻 Sobre mim
 
 - 💻 Backend Developer focado em sistemas escaláveis
-- 🌱 Aprendendo Docker, TypeScript e testes
+- 🌱 Aprendendo Docker, banco de dados 
 - ⚡ Apaixonado por código limpo e boa arquitetura
 
 ---
