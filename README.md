@@ -1,94 +1,178 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+o+Matheus!+%F0%9F%91%BE;Backend+Developer;Systems+Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=140&section=header&text=MATHEUS&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=BACKEND%20DEVELOPER%20%7C%20SYSTEMS%20BUILDER&descAlignY=60&descSize=16"/>
 
-![Visits](https://komarev.com/ghpvc/?username=matheuspereira58047-source&color=00ff88&style=flat-square&label=Visitas)
+### `Backend Developer` • `Systems Builder` • `FiveM Developer`
+
+<img src="https://komarev.com/ghpvc/?username=matheuspereira58047-source&color=FFFFFF&style=flat-square&label=PROFILE+VIEWS"/>
+
+<br/>
+
+> **Transformando ideias em sistemas reais através do código.**
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 Sobre mim
+## Sobre mim
 
-- 💻 Backend Developer
+Sou desenvolvedor **backend**, focado em construir sistemas, APIs, automações e ferramentas para projetos reais — do protótipo à produção.
 
+Gosto de transformar problemas em soluções funcionais, aprender novas tecnologias e refinar continuamente o que já construí.
 
----
+```python
+class Matheus:
+    role  = "Backend Developer"
+    focus = [
+        "Backend Development",
+        "APIs & Systems",
+        "Automation",
+        "FiveM Development",
+        "Discord Bots",
+    ]
+    learning = [
+        "Python",
+        "JavaScript / React",
+        "Database Architecture",
+    ]
+    philosophy = "Code. Build. Improve."
+```
 
-### 🛠️ Tecnologias
+<br/>
 
-<div align="center">
-
-
-
-<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-<img align="center" alt="SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="Lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-
-
-</div>
-
----
-
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuspereira58047-source&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
-### 📌 Projetos em destaque
+## Stack
 
 <div align="center">
 
-| 🤖 Bot do Discord | 📋 API de Tarefas | 🐍 Bot Python |
-|---|---|---|
-| Bot de moderação automática feito em Python | API REST completa com Node.js e MongoDB | Bot que envia mensagens automáticas via Python |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+**Backend**
+
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+
+<br/><br/>
+
+**Database**
+
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+<br/><br/>
+
+**Tools**
+
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 </div>
 
----
+<br/>
 
-### 🌐 Meu Portfólio
+## O que eu desenvolvo
+
+| Área | Descrição |
+|---|---|
+| 🐍 **Python** | APIs, automações e sistemas backend |
+| 🤖 **Discord** | Bots com sistemas de gerenciamento e comandos |
+| 🎮 **FiveM** | Scripts, sistemas e recursos para servidores |
+| 🌐 **Backend** | APIs REST e integração de sistemas web |
+| 🗄️ **Database** | Modelagem e gestão em SQLite, MySQL e MongoDB |
+| ⚙️ **Automação** | Sistemas de mensagens e tarefas automáticas |
+
+<br/>
+
+## Projetos em destaque
 
 <div align="center">
 
-https://matheus-develop.netlify.app/
+<a href="https://github.com/matheuspereira58047-source/sistema-de-mensagem-automatica">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspereira58047-source&repo=sistema-de-mensagem-automatica&theme=dark&hide_border=true"/>
+</a>
 
 </div>
 
----
+**Sistema de Mensagens Automáticas**
+Automatiza o envio e o gerenciamento de mensagens em escala.
+`Python` `FastAPI` `SQLite` `Automation`
 
-### 🐍 Minhas contribuições
+**Projetos FiveM**
+Recursos e sistemas customizados para servidores FiveM.
+`Lua` `JavaScript` `HTML` `CSS`
+
+**Discord Bots**
+Bots com comandos, permissões e automações de gerenciamento.
+`Python` `Discord API` `SQLite`
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matheuspereira58047-source/matheuspereira58047-source/output/github-contribution-grid-snake-dark.svg" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuspereira58047-source&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira58047-source&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuspereira58047-source&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=matheuspereira58047-source&theme=darkhub&no-frame=true&no-bg=true&column=7"/>
+
 </div>
 
----
+<br/>
 
-### 📫 Contato
+## Contribution Snake
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
+<img src="https://raw.githubusercontent.com/matheuspereira58047-source/matheuspereira58047-source/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=80&section=footer" />
+<br/>
+
+## Portfólio
+
+<div align="center">
+
+### [matheus-develop.netlify.app](https://matheus-develop.netlify.app/)
+
+Projetos • Sistemas • Experimentos • Desenvolvimento
+
+</div>
+
+<br/>
+
+## Contato
+
+<div align="center">
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://dev.to/">
+<img src="https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+<a href="https://github.com/matheuspereira58047-source">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### CODE • BUILD • IMPROVE
+
+**Obrigado por visitar meu perfil ⭐**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=100&section=footer"/>
+
+</div>
