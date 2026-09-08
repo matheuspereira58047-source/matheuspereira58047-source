@@ -1,24 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:12182B&height=160&section=header&text=MATHEUS%20PEREIRA&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20FiveM%20Developer&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1A1A1A&height=180&section=header&text=MATHEUS%20PEREIRA&fontColor=FFFFFF&fontSize=40&fontAlignY=42&desc=Backend%20Developer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20FiveM%20Developer&descAlignY=62&descSize=15&animation=fadeIn"/>
 
-<a href="https://matheus-develop.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/matheuspereira58047-source"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Construindo+APIs+e+sistemas+escal%C3%A1veis;Backend+em+Python+%7C+Node.js+%7C+FastAPI;Automa%C3%A7%C3%A3o%2C+bots+e+FiveM+scripts;Do+prot%C3%B3tipo+%C3%A0+produ%C3%A7%C3%A3o" />
+<a href="https://matheus-develop.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logoColor=white" /></a>
+<a href="https://github.com/matheuspereira58047-source"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=matheuspereira58047-source&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Construindo+APIs+e+sistemas+escal%C3%A1veis;Backend+em+Python+%7C+Node.js+%7C+FastAPI;Automa%C3%A7%C3%A3o%2C+bots+e+FiveM+scripts;Do+prot%C3%B3tipo+%C3%A0+produ%C3%A7%C3%A3o" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=matheuspereira58047-source&color=000000&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[Sobre](#sobre-mim) • [Stack](#tech-stack) • [Stats](#github-stats) • [Skillset](#skillset) • [Contato](#contato)
+<a href="#sobre-mim">Sobre</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#github-stats">Stats</a> &nbsp;·&nbsp;
+<a href="#skillset">Skillset</a> &nbsp;·&nbsp;
+<a href="#contato">Contato</a>
 
 </div>
 
@@ -67,24 +73,24 @@ class Matheus:
 
 <br/>
 
-
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuspereira58047-source&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira58047-source&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&card_width=320"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuspereira58047-source&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira58047-source&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&card_width=320"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=matheuspereira58047-source&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=matheuspereira58047-source&theme=dark&hide_border=true&background=000000&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuspereira58047-source&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&title_color=58A6FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuspereira58047-source&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=matheuspereira58047-source&theme=algolia&no-frame=true&no-bg=true&column=7&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=matheuspereira58047-source&theme=matrix&no-frame=true&no-bg=true&column=7&row=1"/>
 
 <br/><br/>
 
@@ -99,17 +105,17 @@ class Matheus:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000000?style=flat-square&logo=lua&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
@@ -143,10 +149,10 @@ Projetos • Sistemas • Experimentos • Desenvolvimento
 
 <div align="center">
 
-<a href="https://github.com/matheuspereira58047-source"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a> <!-- TODO: email real -->
-<a href="https://discord.com/users/SEU-ID-AQUI"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white" /></a> <!-- TODO: link real -->
-<a href="https://matheus-develop.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://github.com/matheuspereira58047-source"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a> <!-- TODO: email real -->
+<a href="https://discord.com/users/SEU-ID-AQUI"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white" /></a> <!-- TODO: link real -->
+<a href="https://matheus-develop.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
 
 </div>
 
@@ -176,6 +182,6 @@ Meus projetos são abertos e disponíveis sob diferentes licenças (verifique ca
 CODE • BUILD • IMPROVE • REPEAT
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12182B,100:0B0B0B&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A1A,100:000000&height=100&section=footer"/>
 
 </div>
