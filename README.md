@@ -15,12 +15,7 @@
 
 <br/><br/>
 
-<a href="#sobre-mim">Sobre</a> ·
-<a href="#tech-stack">Stack</a> ·
-<a href="#projetos">Projetos</a> ·
-<a href="#em-aprendizado">Estudos</a> ·
-<a href="#github-statistics">Stats</a> ·
-<a href="#contato">Contato</a>
+<a href="#sobre-mim">Sobre</a> · <a href="#tech-stack">Stack</a> · <a href="#projetos">Projetos</a> · <a href="#em-aprendizado">Estudos</a> · <a href="#github-statistics">Stats</a> · <a href="#contato">Contato</a>
 
 </div>
 
@@ -42,7 +37,6 @@ class Matheus:
     languages = [
         "Python",
         "JavaScript",
-        "Lua",
     ]
 
     interests = [
@@ -65,7 +59,7 @@ class Matheus:
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,js,lua&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
 
 ### Backend e Frameworks
 
@@ -113,7 +107,7 @@ class Matheus:
 
 | Categoria | Tecnologias |
 |---|---|
-| Linguagens | Python, JavaScript, Lua |
+| Linguagens | Python, JavaScript |
 | Backend e Frameworks | Flask, Node.js, React, Vite, Discord.py |
 | Banco de dados | Supabase, PostgreSQL, SQLite |
 | WhatsApp e automação | Baileys, WAHA |
@@ -161,7 +155,7 @@ Projeto de monitoramento e gerenciamento de infraestrutura.
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white"/>
 
-###  · Desenvolvimento de sistemas
+### NEXCOD · Desenvolvimento de sistemas
 
 Desenvolvimento de soluções personalizadas.
 
@@ -173,6 +167,7 @@ Desenvolvimento de soluções personalizadas.
 
 **Tecnologias:**
 
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
