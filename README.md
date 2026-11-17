@@ -1,228 +1,328 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A1A1A&height=200&section=header&text=MATHEUS%20PEREIRA&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Backend%20Developer%20%E2%80%A2%20Systems%20Builder&descAlignY=62&descSize=16&animation=fadeIn"/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:101010,100:252525&height=230&section=header&text=MATHEUS%20PEREIRA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=59&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,45:101010,100:252525\&height=230\&section=header\&text=MATHEUS%20PEREIRA\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING\&descSize=15\&descAlignY=59\&animation=fadeIn)"/>
 
-<a href="https://matheus-develop.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://github.com/matheuspereira58047-source"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+\<br/>
 
-<br/><br/>
+\<a href="[https://matheus-develop.netlify.app/](https://matheus-develop.netlify.app/)">
+\<img src="[https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge\&logo=firefox\&logoColor=000000)"/>
+\</a>
+\<a href="[https://github.com/matheuspereira58047-source](https://github.com/matheuspereira58047-source)">
+\<img src="[https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)"/>
+\</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Construindo+sistemas+e+APIs;Backend+Development+com+Python+e+Node.js;Automa%C3%A7%C3%A3o%2C+bots+e+integra%C3%A7%C3%B5es;Desenvolvendo+solu%C3%A7%C3%B5es+reais"/>
+\<br/>\<br/>
 
-<br/>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+systems+and+real-world+solutions.;Backend+Development+%7C+APIs+%7C+Databases;Python+%7C+JavaScript+%7C+TypeScript+%7C+Node.js;Turning+ideas+into+software](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=17\&duration=2800\&pause=900\&color=FFFFFF\&center=true\&vCenter=true\&width=750\&lines=Building+systems+and+real-world+solutions.;Backend+Development+%7C+APIs+%7C+Databases;Python+%7C+JavaScript+%7C+TypeScript+%7C+Node.js;Turning+ideas+into+software)."/>
 
-<img src="https://komarev.com/ghpvc/?username=matheuspereira58047-source&color=000000&style=flat-square&label=PROFILE+VIEWS"/>
+\<br/>\<br/>
 
-<br/><br/>
+\<img src="[https://komarev.com/ghpvc/?username=matheuspereira58047-source&style=for-the-badge&color=111111&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=matheuspereira58047-source\&style=for-the-badge\&color=111111\&label=PROFILE+VIEWS)"/>
 
-<a href="#sobre-mim">Sobre</a> · <a href="#tech-stack">Stack</a> · <a href="#projetos">Projetos</a> · <a href="#em-aprendizado">Estudos</a> · <a href="#github-statistics">Stats</a> · <a href="#contato">Contato</a>
+\<br/>\<br/>
 
-</div>
+[About](#-about-me) • [Technologies](#-technologies--technical-skills) • [Projects](#-featured-projects) • [Knowledge](#-technical-knowledge) • [Statistics](#-github-statistics) • [Contact](#-contact)
+
+\</div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor com foco em **Backend Development**, trabalhando na criação de sistemas, APIs, automações e integração entre serviços.
+I'm a software developer focused on **Backend Development**, interested in building systems, APIs, automations and software solutions that connect different technologies.
 
-Gosto de transformar ideias em aplicações funcionais, cuidando da estrutura dos projetos, implementação, banco de dados e ambiente de execução.
+I work on personal projects involving application architecture, backend logic, database integration, service communication and system development.
 
-Atualmente desenvolvo projetos próprios envolvendo **SaaS, monitoramento de servidores, bots para Discord e automações com WhatsApp**.
+My main areas of interest include:
+
+- Backend development and application logic.
+- REST APIs and service integrations.
+- Relational databases and data management.
+- SaaS platforms and web applications.
+- Automation, bots and messaging integrations.
+- Server infrastructure and system monitoring.
+- Software architecture and maintainable code.
+
+I believe in learning through building, testing, debugging and continuously improving real-world applications.
+
+### Developer Profile
 
 ```python
-class Matheus:
+class Developer:
+    name = "Matheus Pereira"
     role = "Backend Developer"
     location = "Brazil"
 
     languages = [
         "Python",
         "JavaScript",
+        "TypeScript",
+        "SQL"
+    ]
+
+    backend = [
+        "Node.js",
+        "Flask",
+        "REST APIs"
+    ]
+
+    databases = [
+        "PostgreSQL",
+        "SQLite",
+        "Supabase"
     ]
 
     interests = [
-        "Backend Development",
-        "REST APIs",
-        "Database Management",
-        "Automation",
-        "Server Infrastructure",
         "Software Architecture",
+        "Backend Engineering",
+        "Automation",
+        "Infrastructure"
     ]
 
-    philosophy = "Code • Build • Improve • Repeat"
+    philosophy = "Code. Build. Test. Improve."
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ Technologies & Technical Skills
 
-<div align="center">
+Technologies used across my development projects and technical learning.
 
-### Linguagens
+\<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
+### Programming Languages
 
-### Backend e Frameworks
+\<img src="[https://skillicons.dev/icons?i=python,js,ts&theme=dark](https://skillicons.dev/icons?i=python,js,ts\&theme=dark)"/>
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,react,vite&theme=dark"/>
+\<br/>
+\<sub>Python • JavaScript • TypeScript\</sub>
 
-<br/>
+\<br/>\<br/>
 
-<img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+### Backend Development & Runtime
 
-### Banco de dados
+\<img src="[https://skillicons.dev/icons?i=nodejs,flask&theme=dark](https://skillicons.dev/icons?i=nodejs,flask\&theme=dark)"/>
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite&theme=dark"/>
+\<br/>\<br/>
 
-### WhatsApp e Automação
+\<img src="[https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=FFFFFF](https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge\&logo=fastapi\&logoColor=FFFFFF)"/>
+\<img src="[https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge\&logo=discord\&logoColor=FFFFFF)"/>
 
-<img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/WAHA-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+\<br/>\<br/>
 
-<br/>
+### Database & Data Management
 
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webhooks-6E40C9?style=for-the-badge&logo=webhooks&logoColor=white"/>
+\<img src="[https://skillicons.dev/icons?i=postgres,sqlite,supabase&theme=dark](https://skillicons.dev/icons?i=postgres,sqlite,supabase\&theme=dark)"/>
 
-### Infraestrutura e Servidores
+\<br/>\<br/>
 
-<img src="https://skillicons.dev/icons?i=linux,debian,android&theme=dark"/>
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=FFFFFF)"/>
 
-<br/>
+\<br/>\<br/>
 
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white"/>
+### Frontend & Web Development
 
-### Ferramentas
+\<img src="[https://skillicons.dev/icons?i=html,css,react,vite&theme=dark](https://skillicons.dev/icons?i=html,css,react,vite\&theme=dark)"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm&theme=dark"/>
+\<br/>\<br/>
 
-### Deploy e Hospedagem
+### Automation & Integrations
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark"/>
+\<img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=FFFFFF)"/>
+\<img src="[https://img.shields.io/badge/Baileys-128C7E?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF](https://img.shields.io/badge/Baileys-128C7E?style=for-the-badge\&logo=whatsapp\&logoColor=FFFFFF)"/>
+\<img src="[https://img.shields.io/badge/WAHA-075E54?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF](https://img.shields.io/badge/WAHA-075E54?style=for-the-badge\&logo=whatsapp\&logoColor=FFFFFF)"/>
 
-</div>
+\<br/>\<br/>
 
----
+\<img src="[https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logo=webhooks&logoColor=FFFFFF](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge\&logo=webhooks\&logoColor=FFFFFF)"/>
+\<img src="[https://img.shields.io/badge/API%20Integrations-111111?style=for-the-badge&logo=fastapi&logoColor=FFFFFF](https://img.shields.io/badge/API%20Integrations-111111?style=for-the-badge\&logo=fastapi\&logoColor=FFFFFF)"/>
 
-## Tecnologias utilizadas
+\<br/>\<br/>
 
-| Categoria | Tecnologias |
-|---|---|
-| Linguagens | Python, JavaScript |
-| Backend e Frameworks | Flask, Node.js, React, Vite, Discord.py |
-| Banco de dados | Supabase, PostgreSQL, SQLite |
-| WhatsApp e automação | Baileys, WAHA |
-| Integrações | APIs REST, Webhooks |
-| Infraestrutura | Linux, Debian, Termux, Android |
-| Ferramentas | Git, GitHub, VS Code, PowerShell, npm |
-| Deploy | Vercel, Netlify |
+### Infrastructure & Operating Systems
 
----
+\<img src="[https://skillicons.dev/icons?i=linux,debian,android&theme=dark](https://skillicons.dev/icons?i=linux,debian,android\&theme=dark)"/>
 
-## Projetos
+\<br/>\<br/>
 
-### Barberiva · SaaS para barbearias
+\<img src="[https://img.shields.io/badge/Termux-111111?style=for-the-badge&logo=terminal&logoColor=FFFFFF](https://img.shields.io/badge/Termux-111111?style=for-the-badge\&logo=terminal\&logoColor=FFFFFF)"/>
+\<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=FFFFFF)"/>
 
-Sistema de gerenciamento e agendamento para barbearias.
+\<br/>\<br/>
 
-- Agendamento online para clientes.
-- Painel administrativo.
-- Gerenciamento de serviços e profissionais.
-- Banco de dados integrado ao Supabase.
-- Integração com WhatsApp e lembretes automáticos.
-- Interface desenvolvida com React e Vite.
-- Estrutura multiempresa.
+### Development Tools & Deployment
 
-**Tecnologias:**
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,vercel,netlify&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,vercel,netlify\&theme=dark)"/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,supabase,js,nodejs&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
-### Sentinela · Monitoramento de servidores
-
-Projeto de monitoramento e gerenciamento de infraestrutura.
-
-- Monitoramento de CPU e memória RAM.
-- Acompanhamento de temperatura e bateria.
-- Verificação de serviços e aplicações.
-- Monitoramento de disponibilidade.
-- Integração com ambientes Linux e Android.
-
-**Tecnologias:**
-
-<img src="https://skillicons.dev/icons?i=python,linux&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white"/>
-
-### NEXCOD · Desenvolvimento de sistemas
-
-Desenvolvimento de soluções personalizadas.
-
-- Bots para Discord.
-- Sistemas de tickets.
-- Automações.
-- Scripts para FiveM.
-- Integrações e ferramentas personalizadas.
-
-**Tecnologias:**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+\</div>
 
 ---
 
-## Em aprendizado
+## 🚀 Featured Projects
 
-Aprofundando conhecimentos em:
+Projects focused on software development, automation, system architecture and practical engineering.
 
-- Arquitetura de software.
-- Desenvolvimento de APIs RESTful.
-- Otimização de bancos de dados.
-- Segurança de aplicações.
-- Docker e containers.
-- DevOps e infraestrutura.
-- Sistemas escaláveis.
-- Integrações e webhooks.
+### 01 — Barberiva
 
----
+\<sub>SAAS PLATFORM • WEB DEVELOPMENT • AUTOMATION\</sub>
 
-## GitHub Statistics
+**A management and appointment platform designed for barbershops.**
 
-<div align="center">
+Barberiva is a SaaS project focused on simplifying business management, appointment scheduling and communication between businesses and customers.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuspereira58047-source&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true"/>
+**Core features:**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira58047-source&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&card_width=320"/>
+- Online appointment scheduling.
+- Administrative dashboard.
+- Professional and service management.
+- Multi-tenant application structure.
+- Database integration.
+- WhatsApp connectivity.
+- Automated reminders and notifications.
+- Responsive web interface.
 
-<br/><br/>
+**Technology stack:**
 
-<img src="https://streak-stats.demolab.com/?user=matheuspereira58047-source&theme=dark&hide_border=true&background=000000&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+\<img src="[https://skillicons.dev/icons?i=react,vite,js,ts,nodejs,supabase,postgres&theme=dark](https://skillicons.dev/icons?i=react,vite,js,ts,nodejs,supabase,postgres\&theme=dark)"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuspereira58047-source&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
-
-</div>
+\<img src="[https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white](https://img.shields.io/badge/Baileys-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)"/>
 
 ---
 
-## Contato
+### 02 — Sentinela
 
-<div align="center">
+\<sub>INFRASTRUCTURE • SYSTEM MONITORING • AUTOMATION\</sub>
 
-<a href="https://matheus-develop.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://github.com/matheuspereira58047-source"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+**A system monitoring and infrastructure management project.**
 
-<br/><br/>
+Sentinela focuses on monitoring computational resources, system health and application availability.
 
-Aberto a colaborações, projetos e oportunidades de desenvolvimento.
+**Core features:**
 
-<br/>
+- CPU monitoring.
+- RAM usage tracking.
+- Temperature and battery monitoring.
+- Service and process verification.
+- Application availability monitoring.
+- Linux and Android environment integration.
 
-**CODE • BUILD • IMPROVE • REPEAT**
+**Technology stack:**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:000000&height=100&section=footer"/>
+\<img src="[https://skillicons.dev/icons?i=python,linux&theme=dark](https://skillicons.dev/icons?i=python,linux\&theme=dark)"/>
 
-</div>
+\<img src="[https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white](https://img.shields.io/badge/Debian-A81D33?style=flat-square\&logo=debian\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Termux-111111?style=flat-square&logo=terminal&logoColor=white](https://img.shields.io/badge/Termux-111111?style=flat-square\&logo=terminal\&logoColor=white)"/>
+
+---
+
+### 03 — NEXCOD
+
+\<sub>SOFTWARE DEVELOPMENT • DISCORD BOTS • CUSTOM SYSTEMS\</sub>
+
+**Custom software solutions and automation tools.**
+
+A development initiative focused on creating customized applications, management tools and automation systems.
+
+**Development areas:**
+
+- Discord bots.
+- Ticket management systems.
+- Moderation and administration tools.
+- Custom automation.
+- FiveM scripts and systems.
+- Server management utilities.
+- Service integrations.
+
+**Technology stack:**
+
+\<img src="[https://skillicons.dev/icons?i=python,nodejs,js&theme=dark](https://skillicons.dev/icons?i=python,nodejs,js\&theme=dark)"/>
+
+\<img src="[https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square\&logo=discord\&logoColor=white)"/>
+
+---
+
+## 🧠 Technical Knowledge
+
+Areas of knowledge developed through practical projects and continuous learning.
+
+| Category          | Technologies & Concepts              |
+| ----------------- | ------------------------------------ |
+| Programming       | Python, JavaScript, TypeScript       |
+| Backend           | Node.js, Flask, REST APIs            |
+| Frontend          | React, Vite, HTML, CSS               |
+| Database          | SQL, PostgreSQL, SQLite, Supabase    |
+| Integrations      | Webhooks, WhatsApp, API integrations |
+| Automation        | Python scripts, Discord bots         |
+| Infrastructure    | Linux, Debian, Android               |
+| Development Tools | Git, GitHub, VS Code, npm            |
+
+### Currently Exploring
+
+- Software architecture and design patterns.
+- Scalable backend applications.
+- API security and authentication.
+- Database optimization.
+- Docker and containerization.
+- DevOps and deployment.
+- Distributed systems.
+- Code quality and maintainability.
+
+---
+
+## 📊 GitHub Statistics
+
+\<div align="center">
+
+\<img height="180" src="[https://github-readme-stats.vercel.app/api?username=matheuspereira58047-source&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=matheuspereira58047-source\&show_icons=true\&hide_border=true\&theme=transparent\&bg_color=00000000\&title_color=FFFFFF\&text_color=AAAAAA\&icon_color=FFFFFF\&include_all_commits=true)"/>
+
+\<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira58047-source&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira58047-source\&layout=compact\&hide_border=true\&theme=transparent\&bg_color=00000000\&title_color=FFFFFF\&text_color=AAAAAA\&langs_count=8)"/>
+
+\<br/>\<br/>
+
+\<img width="90%" src="[https://streak-stats.demolab.com/?user=matheuspereira58047-source&theme=transparent&hide_border=true&background=00000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888](https://streak-stats.demolab.com/?user=matheuspereira58047-source\&theme=transparent\&hide_border=true\&background=00000000\&stroke=333333\&ring=FFFFFF\&fire=FFFFFF\&currStreakLabel=FFFFFF\&sideLabels=AAAAAA\&dates=888888)"/>
+
+\<br/>\<br/>
+
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=matheuspereira58047-source&bg_color=00000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY](https://github-readme-activity-graph.vercel.app/graph?username=matheuspereira58047-source\&bg_color=00000000\&color=FFFFFF\&line=888888\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=CONTRIBUTION%20ACTIVITY)"/>
+
+\</div>
+
+---
+
+## 🎯 Development Philosophy
+
+\<div align="center">
+
+### BUILD WITH PURPOSE.
+
+### WRITE CLEAN CODE.
+
+### SOLVE REAL PROBLEMS.
+
+### NEVER STOP IMPROVING.
+
+\</div>
+
+---
+
+## 🌐 Contact & Portfolio
+
+\<div align="center">
+
+\<a href="[https://matheus-develop.netlify.app/](https://matheus-develop.netlify.app/)"> \<img src="[https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FFFFFF?style=for-the-badge\&logo=firefox\&logoColor=000000)"/> \</a>
+
+\<a href="[https://github.com/matheuspereira58047-source](https://github.com/matheuspereira58047-source)"> \<img src="[https://img.shields.io/badge/EXPLORE_MY_GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF](https://img.shields.io/badge/EXPLORE_MY_GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)"/> \</a>
+
+\<br/>\<br/>
+
+**Open to collaborations, software projects and development opportunities.**
+
+\<br/>\<br/>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:252525,100:000000&height=130&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:252525,100:000000\&height=130\&section=footer)"/>
+
+**MATHEUS PEREIRA © 2026**
+
+`CODE` • `BUILD` • `TEST` • `IMPROVE`
+
+\</div>
