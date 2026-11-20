@@ -93,7 +93,6 @@ class Developer:
 <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-C73A63?style=for-the-badge&logo=zapier&logoColor=white"/>
 <img alt="Baileys" src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <img alt="WAHA" src="https://img.shields.io/badge/WAHA-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <br/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
